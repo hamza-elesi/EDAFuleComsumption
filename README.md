@@ -36,10 +36,9 @@ Comparing fuel efficiency between different makes, models, or classes of vehicle
 <h1>Getting Started</h1>
 <p>
 To get started with this dataset, follow these steps:
-
-1.Clone or download the repository to your local machine.
-2.Import the dataset into your preferred data analysis or machine learning environment (e.g., Python, R, Jupyter Notebook).
-3.Use the provided attributes to explore the dataset, perform data cleaning, and prepare it for analysis.
-4.Apply appropriate regression or machine learning techniques to build prediction models for CO2 emissions.
-5.Evaluate the performance of the
+<p>1.Clone or download the repository to your local machine.</p>
+<p>2.Import the dataset into your preferred data analysis or machine learning environment (e.g., Python, R, Jupyter Notebook).</p>
+<p>3.Use the provided attributes to explore the dataset, perform data cleaning, and prepare it for analysis.</p>
+<p>4.Apply appropriate regression or machine learning techniques to build prediction models for CO2 emissions.</p>
+<p>5.Evaluate</p>
 </p>
