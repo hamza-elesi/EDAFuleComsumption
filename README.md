@@ -35,7 +35,7 @@ Comparing fuel efficiency between different makes, models, or classes of vehicle
 
 <h1>Getting Started</h1>
 <p>
-<b>To get started with this dataset, follow these steps:<b>
+<h3>To get started with this dataset, follow these steps:</h3>
 <p>1.Clone or download the repository to your local machine.</p>
 <p>2.Import the dataset into your preferred data analysis or machine learning environment (e.g., Python, R, Jupyter Notebook).</p>
 <p>3.Use the provided attributes to explore the dataset, perform data cleaning, and prepare it for analysis.</p>
