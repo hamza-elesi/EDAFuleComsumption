@@ -6,19 +6,32 @@
 <h2>Dataset Details</h2>
 <h3>The dataset provides the following information for each vehicle entry:</h3>
 <p>
-MODELYEAR: The model year of the vehicle (e.g., 2014).
-MAKE: The manufacturer or brand of the vehicle.
-MODEL: The specific model of the vehicle.
-VEHICLECLASS: The classification of the vehicle (e.g., SUV, sedan, truck).
-ENGINESIZE: The size of the vehicle's engine in liters.
-CYLINDERS: The number of cylinders in the vehicle's engine.
-TRANSMISSION: The type of transmission system used in the vehicle.
-FUELTYPE: The fuel type used by the vehicle (e.g., gasoline, diesel).
-FUELCONSUMPTION_CITY: The fuel consumption in liters per 100 kilometers in city driving conditions.
-FUELCONSUMPTION_HWY: The fuel consumption in liters per 100 kilometers on the highway.
-FUELCONSUMPTION_COMB: The combined fuel consumption in liters per 100 kilometers (combining city and highway driving).
-FUELCONSUMPTION_COMB_MPG: The combined fuel consumption in miles per gallon (MPG).
-CO2EMISSIONS: The CO2 emissions in grams per kilometer produced by the vehicle.
+  <li>MODELYEAR: The model year of the vehicle (e.g., 2014).</li>
+  <li>MAKE: The manufacturer or brand of the vehicle.
+</li>
+  <li>MODEL: The specific model of the vehicle.
+</li>
+  <li>VEHICLECLASS: The classification of the vehicle (e.g., SUV, sedan, truck).
+</li>
+  <li>ENGINESIZE: The size of the vehicle's engine in liters.
+</li>
+  <li>CYLINDERS: The number of cylinders in the vehicle's engine.
+</li>
+  <li>TRANSMISSION: The type of transmission system used in the vehicle.
+</li>
+  <li>FUELTYPE: The fuel type used by the vehicle (e.g., gasoline, diesel).
+</li>
+  <li>FUELCONSUMPTION_COMB: The combined fuel consumption in liters per 100 kilometers (combining city and highway driving).
+</li>
+   <li>FUELCONSUMPTION_HWY: The fuel consumption in liters per 100 kilometers on the highway.
+</li>
+
+  <li>FUELCONSUMPTION_CITY: The fuel consumption in liters per 100 kilometers in city driving conditions.
+</li>
+<li>FUELCONSUMPTION_COMB_MPG: The combined fuel consumption in miles per gallon (MPG).
+</li>
+  <li>CO2EMISSIONS: The CO2 emissions in grams per kilometer produced by the vehicle.
+</li>
 </p>
 <h2>Purpose</h2>
 <p>The purpose of this dataset is to enable researchers, data scientists, and machine learning enthusiasts to develop models and algorithms to predict CO2 emissions based on vehicle specifications and fuel consumption data. By leveraging the attributes available in this dataset, it is possible to explore relationships and patterns that can aid in developing accurate prediction models.
